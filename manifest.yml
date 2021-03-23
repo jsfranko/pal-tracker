@@ -6,5 +6,5 @@ applications:
     env:
       WELCOME_MESSAGE: Hello from the review environment!
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
-      UNIQUE_IDENTIFIER: 'pal-tracker-j-scott'
+      UNIQUE_IDENTIFIER: 'j-scott'
       DOMAIN: 'apps.evans.pal.pivotal.io'
